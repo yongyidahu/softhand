@@ -1,0 +1,15 @@
+.\output\event_groups.o: ..\Third_party\FreeRTOS-8.2.3\event_groups.c
+.\output\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\output\event_groups.o: ..\Third_party\FreeRTOS-8.2.3\include\FreeRTOS.h
+.\output\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\output\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\event_groups.o: ..\inc\FreeRTOSConfig.h
+.\output\event_groups.o: ..\Third_party\FreeRTOS-8.2.3\include\projdefs.h
+.\output\event_groups.o: ..\Third_party\FreeRTOS-8.2.3\include\portable.h
+.\output\event_groups.o: ..\Third_party\FreeRTOS-8.2.3\include\deprecated_definitions.h
+.\output\event_groups.o: ..\Third_party\FreeRTOS-8.2.3\portable\RVDS\ARM_CM3\portmacro.h
+.\output\event_groups.o: ..\Third_party\FreeRTOS-8.2.3\include\mpu_wrappers.h
+.\output\event_groups.o: ..\Third_party\FreeRTOS-8.2.3\include\task.h
+.\output\event_groups.o: ..\Third_party\FreeRTOS-8.2.3\include\list.h
+.\output\event_groups.o: ..\Third_party\FreeRTOS-8.2.3\include\timers.h
+.\output\event_groups.o: ..\Third_party\FreeRTOS-8.2.3\include\event_groups.h
